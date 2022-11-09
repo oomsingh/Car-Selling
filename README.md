@@ -1,46 +1,7 @@
-<readme-toc>
-
-    <div data-target="readme-toc.content" class="Box mt-3 position-relative">
-      
-  <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
-  >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}"
-  data-menu-hydro-click-hmac="e1a32fedb7f50a72de6a745a81d430e9aca6f7bd8aeb3eef6b2433d449135e84"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
 
 
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}" data-hydro-click-hmac="5b1ea6679135e8bfadf05707ca646e9dc3339f0ea6a0637f22bccb79c9b3634d" href="#housekeeper-web-application">Housekeeper Web Application</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}" data-hydro-click-hmac="5b1ea6679135e8bfadf05707ca646e9dc3339f0ea6a0637f22bccb79c9b3634d" href="#problem-statement-">Problem Statement :</a>
+<readme-tProblem Statement :</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}" data-hydro-click-hmac="5b1ea6679135e8bfadf05707ca646e9dc3339f0ea6a0637f22bccb79c9b3634d" href="#the-project-is-divided-into-3-segments">The project is divided into 3 segments</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}" data-hydro-click-hmac="5b1ea6679135e8bfadf05707ca646e9dc3339f0ea6a0637f22bccb79c9b3634d" href="#please-find-all-source-code-in-this-repository">Please find all source code in this repository.</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:203133027,&quot;originating_url&quot;:&quot;https://github.com/kmanadkat/housekeeper/blob/master/readme.md&quot;,&quot;user_id&quot;:115030660}}" data-hydro-click-hmac="5b1ea6679135e8bfadf05707ca646e9dc3339f0ea6a0637f22bccb79c9b3634d" href="#the-following-is-the-er-diagram-made-with-the-help-of-problem-statement">The following is the ER diagram made with the help of problem statement</a>
