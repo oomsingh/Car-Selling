@@ -17,9 +17,8 @@ Design an application in which costumer can buy car.The web application is divid
 #### Please find all source code in this repository.
 ----
 
-### The following is the ER diagram made with the help of problem statement
-
-![ER diagram - Housekeeper Web App](ERDiagram.png)
+### The following is the Flow Chart made with the help of problem statement
+([ERDiagram.png](https://aptostar.com/login%20process.png))
 
 -------
 
