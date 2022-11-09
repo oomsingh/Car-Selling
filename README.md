@@ -21,13 +21,10 @@ Design an application in which costumer can buy car.The web application is divid
 ![u1 - Housekeeper Web App](https://aptostar.com/login%20process.png)
 
 
--------
 
+### Frontend - User level
 
-
-### Frontend Screens - User level
-
-![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
+![u1 - Housekeeper Web App](https://aptostar.com/frontend.jpg)
 
 ![u1 - Housekeeper Web App](https://aptostar.com/ico.png)
 
