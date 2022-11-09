@@ -1,10 +1,4 @@
 ## Housekeeper Web Application
-[![PHP](https://img.shields.io/badge/PHP-7.1-blue.svg)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-5.7-blue.svg)](#)
-[![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](#)
-[![CSS](https://img.shields.io/badge/CSS-3-blue.svg)](#)
-[![Javascript](https://img.shields.io/badge/Javascript-ES6-yellow.svg)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.3-blueviolet.svg)](#)
 
 ### Problem Statement : 
 Design an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
@@ -30,28 +24,20 @@ Design an application which hostel students can use to get their rooms cleaned o
 --------------
 
 ### Frontend Screens - User level
-https://aptostar.com/car.webp
 
 ![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
-![u1 - Housekeeper Web App](3.png)
+![u1 - Housekeeper Web App]([3.png](https://aptostar.com/car.webp))
 
-![u1 - Housekeeper Web App](4.png)
+![u1 - Housekeeper Web App]([4.png](https://aptostar.com/car.webp))
 
-![u1 - Housekeeper Web App](5.png)
+![u1 - Housekeeper Web App]([5.png](https://aptostar.com/car.webp))
 
 --------------
 
 ### Frontend Screens - Admin level
 
-![u1 - Housekeeper Web App](6.png)
+![u1 - Housekeeper Web App]([6.png](https://aptostar.com/car.webp))
 
-![u1 - Housekeeper Web App](7.png)
-
-![u1 - Housekeeper Web App](8.png)
-
-![u1 - Housekeeper Web App](9.png)
-
-![u1 - Housekeeper Web App](10.png)
 
 ------------------------
