@@ -1,4 +1,5 @@
-## Cars Sellling Wbsite
+## Cars Selling Website
+
 ## For Demo Visit Website
 
 https://aptostar.com/
@@ -18,19 +19,19 @@ Design an application in which costumer can buy car.The web application is divid
 ----
 
 ### The following is the Flow Chart made with the help of problem statement
-![u1 - Housekeeper Web App](https://aptostar.com/login%20process.png)
+![u1 - car selling Web App](https://aptostar.com/login%20process.png)
 
 
 
 ### Frontend - User level
 
-![u1 - Housekeeper Web App](https://aptostar.com/frontend.jpg)
+![u1 - car selling Web App](https://aptostar.com/frontend.jpg)
 
-![u1 - Housekeeper Web App](https://aptostar.com/frontend1.jpg)
+![u1 - car selling Web App](https://aptostar.com/frontend1.jpg)
 
-[![u1 - Housekeeper Web App](https://aptostar.com/frontend2.jpg)
+[![u1 - car selling Web App](https://aptostar.com/frontend2.jpg)
 
-![u1 - Housekeeper Web App](https://aptostar.com/contactus.jpg)
+![u1 - car selling Web App](https://aptostar.com/contactus.jpg)
 
 
 ------------------------
