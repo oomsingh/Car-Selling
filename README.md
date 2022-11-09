@@ -4,7 +4,7 @@
 
 https://aptostar.com/
 
-### Problem Statement : 
+### Project Theme: 
 Design an application in which costumer can buy car.The web application is divided into three parts 
 1. Customer have to register on the website.
 2. customer have to login into the site and choose car according to their need, and can contact us for more information/querry.
