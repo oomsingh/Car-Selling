@@ -27,17 +27,17 @@ Design an application which hostel students can use to get their rooms cleaned o
 
 ![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
-![u1 - Housekeeper Web App]([3.png](https://aptostar.com/car.webp))
+![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
-![u1 - Housekeeper Web App]([4.png](https://aptostar.com/car.webp))
+![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
-![u1 - Housekeeper Web App]([5.png](https://aptostar.com/car.webp))
+![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
 --------------
 
 ### Frontend Screens - Admin level
 
-![u1 - Housekeeper Web App]([6.png](https://aptostar.com/car.webp))
+![u1 - Housekeeper Web App](https://aptostar.com/car.webp)
 
 
 ------------------------
