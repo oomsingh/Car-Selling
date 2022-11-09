@@ -26,7 +26,7 @@ Design an application in which costumer can buy car.The web application is divid
 
 ![u1 - Housekeeper Web App](https://aptostar.com/frontend.jpg)
 
-![u1 - Housekeeper Web App](https://aptostar.com/ico.png)
+![u1 - Housekeeper Web App](https://aptostar.com/frontend1.jpg)
 
 ![u1 - Housekeeper Web App](https://aptostar.com/ico.png)
 
